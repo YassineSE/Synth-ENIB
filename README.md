@@ -8,7 +8,7 @@ A simple polyphonic sustractive Synthesizer using the JUCE C++ Framework.
 ### Execution
 You can directly run the **executable** (in the Release Section), use the **VST3** or follow these steps to build the project:
 
-1. Cloner this git repo
+1. Clone this git repo
 1. Clone the juce library [JUCE](https://github.com/juce-framework/JUCE.git)
 1. Install the necessary librarries for JUCE by running this shell script `Extras/install_libraries.sh`
 1. Launch the `Projucer` (included in the JUCE Library: `JUCE/extras/Projuicer`). Copy the script `Extras/run.sh` in that folder then run it.
